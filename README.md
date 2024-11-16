@@ -13,7 +13,7 @@ Liste as IAs Generativas e outras ferramentas usadas
 Solicitei no prompt do Copilot a criação de uma imagem
 
 ## 🚀 Resultados
-![Imagem](https://tse1.mm.bing.net/th?id=OIG3.gFouaIKVK07dlsVMaBDy&pid=ImgGn)
+Anexado
 
 ## 💭 Reflexão (Opcional)
 Meio Cartoon.
